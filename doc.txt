@@ -1,0 +1,1 @@
+https://learn.microsoft.com/pt-br/powershell/scripting/install/install-powershell?view=powershell-7.5&WT.mc_id=ps-vscode
